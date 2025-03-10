@@ -44,13 +44,14 @@ A website that does CRUD operations to a database, used to demonstate how to use
    ![Screenshot 2025-03-07 184739](https://github.com/user-attachments/assets/7b5e700e-754a-4982-a1ea-6c237a2fa6c0)
    
    2.6 Set password to Siyambuka123
+
    ![Screenshot 2025-03-07 184806](https://github.com/user-attachments/assets/5b362721-c5ea-45a4-aa7d-abc67ab69741)
    
    2.7 Test connection
    
    2.8 If test successful, click ok
 
-3. Set up the database (with data import)
+4. Set up the database (with data import)
    
    3.1 Open MySQL WorkBench
    
