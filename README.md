@@ -78,8 +78,8 @@ A website that does CRUD operations to a database, used to demonstate how to use
        ![Screenshot 2025-03-07 190830](https://github.com/user-attachments/assets/5155b715-e503-421a-836a-19b9e42cc74c)
        3.5.2 Click New
        ![Screenshot 2025-03-07 190830](https://github.com/user-attachments/assets/1eae4d40-a718-4bef-a5b7-2770f340a5ed)
-       3.5.3 Name the schema: people
-       ![Screenshot 2025-03-07 190842](https://github.com/user-attachments/assets/376a0bf4-f092-410b-8a04-ede0272ac3a7)
+       3.5.3 Name the schema: people  
+![Screenshot 2025-03-07 190842](https://github.com/user-attachments/assets/376a0bf4-f092-410b-8a04-ede0272ac3a7)
 
    3.6 After chosing 3.4 or 3.5, click Import Progress
    ![Screenshot 2025-03-07 190908](https://github.com/user-attachments/assets/1d516465-9a38-4525-bfeb-a01339394b05)
