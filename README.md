@@ -12,8 +12,10 @@ A website that does CRUD operations to a database, used to demonstate how to use
    
    2.1 Choose the 8.0.41 version
    ![Screenshot 2025-03-07 182936](https://github.com/user-attachments/assets/f3e59213-5238-41e0-bf47-c0f61d0be238)
+   
    2.2 Click the recommended download
    ![Screenshot 2025-03-07 183008](https://github.com/user-attachments/assets/00e96090-4d14-4256-a704-620231dba7cf)
+   
    2.3 Download the first link
    ![Screenshot 2025-03-07 183031](https://github.com/user-attachments/assets/2da62bdf-41bd-478f-b59f-928c6c42b7c2)
 
@@ -26,28 +28,41 @@ A website that does CRUD operations to a database, used to demonstate how to use
 > git clone https://github.com/Siyambuka63/PeopleInfo.git
 
 2. Set up the MySQL connection
+   
    2.1 Open MySQL Workbench
+   
    2.2 Set up a new connection
    ![Screenshot 2025-03-07 183031](https://github.com/user-attachments/assets/6a4aaf02-99ff-4ff2-8312-c12a96a04167)
-   2.3 Set Connection Name to localhost"
+   
+   2.3 Set Connection Name to localhost
    ![Screenshot 2025-03-07 184739](https://github.com/user-attachments/assets/6ccd8e2a-dae0-484a-9991-b27eef1770af)
+   
    2.4 Ensure username is root
    ![Screenshot 2025-03-07 184739](https://github.com/user-attachments/assets/ab130ca4-b2ab-4101-bfcf-73d678591135)
+   
    2.5 Click Store in vault
    ![Screenshot 2025-03-07 184739](https://github.com/user-attachments/assets/7b5e700e-754a-4982-a1ea-6c237a2fa6c0)
+   
    2.6 Set password to Siyambuka123
    ![Screenshot 2025-03-07 184806](https://github.com/user-attachments/assets/5b362721-c5ea-45a4-aa7d-abc67ab69741)
+   
    2.7 Test connection
+   
    2.8 If test successful, click ok
 
 3. Set up the database (with data import)
+   
    3.1 Open MySQL WorkBench
+   
    3.2 Select the localhost connection
    ![Screenshot 2025-03-07 190353](https://github.com/user-attachments/assets/5d8de716-bb0e-4881-95b1-aa12d2f89a2f)
+   
    3.3 Click on the server tab, then Data Import
    ![Screenshot 2025-03-07 190437](https://github.com/user-attachments/assets/bf2144b7-df73-47f0-b5b2-9108a08bb0f7)
-   N.B Prick 3.4 or 3.5
-   3.4 Import from Dump Project Folder
+   
+   **N.B Prick 3.4 or 3.5**
+   
+   3.4 Import from Dump Project Folder 
        3.4.1 Click Import from Dump Project Folder
        ![Screenshot 2025-03-07 190747](https://github.com/user-attachments/assets/22c18de0-b0a5-476c-ba06-77c01081d6e2)
        3.4.2 Navigate to the folder with the people_user.sql file
@@ -75,13 +90,13 @@ A website that does CRUD operations to a database, used to demonstate how to use
 
    3.8 Close MySQL Workbench
 
-4. Run as Administator Command Prompt
+6. Run as Administator Command Prompt
    
-5. Navigate to the project directory:
-   cd project-name
+7. Navigate to the project directory:
+   > cd project-name
 
-6. Run the server
-   node server.js
+8. Run the server
+   > node server.js
 
-7. Run index.html
+9. Run index.html
    
