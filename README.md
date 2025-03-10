@@ -79,7 +79,6 @@ A website that does CRUD operations to a database, used to demonstate how to use
        3.5.2 Click New
        ![Screenshot 2025-03-07 190830](https://github.com/user-attachments/assets/1eae4d40-a718-4bef-a5b7-2770f340a5ed)
        3.5.3 Name the schema: people
-   
        ![Screenshot 2025-03-07 190842](https://github.com/user-attachments/assets/376a0bf4-f092-410b-8a04-ede0272ac3a7)
 
    3.6 After chosing 3.4 or 3.5, click Import Progress
@@ -88,7 +87,7 @@ A website that does CRUD operations to a database, used to demonstate how to use
    3.7 Then, click Start Import
    ![Screenshot 2025-03-07 190908](https://github.com/user-attachments/assets/9c0eb39c-808d-4319-a978-e5511b99b73e)
 
-   N.B If this was all a lot too much to follow, you can go from 3.2 and create a new schema named people. The server will automatically creates a table for the project. 
+   **N.B If this was all a lot too much to follow, you can go from 3.2 and create a new schema named people. The server will automatically creates a table for the project.**
 
    3.8 Close MySQL Workbench
 
