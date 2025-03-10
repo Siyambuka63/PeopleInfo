@@ -79,6 +79,7 @@ A website that does CRUD operations to a database, used to demonstate how to use
        3.5.2 Click New
        ![Screenshot 2025-03-07 190830](https://github.com/user-attachments/assets/1eae4d40-a718-4bef-a5b7-2770f340a5ed)
        3.5.3 Name the schema: people
+   
        ![Screenshot 2025-03-07 190842](https://github.com/user-attachments/assets/376a0bf4-f092-410b-8a04-ede0272ac3a7)
 
    3.6 After chosing 3.4 or 3.5, click Import Progress
