@@ -9,6 +9,7 @@ A website that does CRUD operations to a database, used to demonstate how to use
      ![Screenshot 2025-03-07 181629](https://github.com/user-attachments/assets/59f09a2b-2ac1-4420-824c-ac6c9f61508f)
 
 2. Download MySQL Community Server 8.0.41 at https://dev.mysql.com/downloads/mysql
+   
    2.1 Choose the 8.0.41 version
    ![Screenshot 2025-03-07 182936](https://github.com/user-attachments/assets/f3e59213-5238-41e0-bf47-c0f61d0be238)
    2.2 Click the recommended download
