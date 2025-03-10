@@ -61,7 +61,7 @@ A website that does CRUD operations to a database, used to demonstate how to use
    3.3 Click on the server tab, then Data Import
    ![Screenshot 2025-03-07 190437](https://github.com/user-attachments/assets/bf2144b7-df73-47f0-b5b2-9108a08bb0f7)
    
-   **N.B Prick 3.4 or 3.5**
+   **N.B Pick 3.4 or 3.5**
    
    3.4 Import from Dump Project Folder 
        3.4.1 Click Import from Dump Project Folder
