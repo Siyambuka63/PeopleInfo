@@ -91,7 +91,7 @@ A website that does CRUD operations to a database, used to demonstate how to use
 
    3.8 Close MySQL Workbench
 
-6. Run as Administator Command Prompt
+6. Run Command Prompt as Administator 
    
 7. Navigate to the project directory:
    > cd project-name
